@@ -1,0 +1,10 @@
+{
+    "name": "com.toobler.dynamicupdater",
+    "version": "1.0.0",
+    "displayName": "Dynamic Updater",
+    "description": "A Unity library to update any object property from external config.",
+    "unity": "2020.3",
+    "author": {
+      "name": "Test User"
+    }
+  }
