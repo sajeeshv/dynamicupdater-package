@@ -1,10 +1,10 @@
 {
-	"name": "DynamicUpdator",
+	"name": "DynamicUpdater",
 	"rootNamespace": "DynamicUpdater",
 	"references": [],
 	"includePlatforms": [
-		"Editor",
-		"WebGL"
+		"WebGL",
+		"Editor"
 	],
 	"excludePlatforms": [],
 	"allowUnsafeCode": false,
