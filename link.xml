@@ -1,0 +1,4 @@
+<linker>
+  <assembly fullname="DynamicUpdator" preserve="all"/>
+  <assembly fullname="DynamicUpdater" preserve="all"/>
+</linker>
