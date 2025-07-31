@@ -2,7 +2,11 @@
 	"name": "DynamicUpdator",
 	"rootNamespace": "DynamicUpdater",
 	"references": [],
-	"includePlatforms": [],
+	"includePlatforms": [
+		"Editor",
+		"Standalone",
+		"WebGL"
+	],
 	"excludePlatforms": [],
 	"allowUnsafeCode": false,
 	"overrideReferences": false,
